@@ -38,7 +38,7 @@ function Navbar({supp,sup}) {
         {
           navRout.map((element,index) => {
             return(
-              <li key={index} onClick={() => supp(false)} className='shadow  py-4 px-28 text-teal-300 rounded-full mb-3 hover:shadow-inshad active:bg-teal-300 active:text-white'><NavLink to={element.lnk}>{element.name}</NavLink></li>
+              <NavLink key={index} onClick={() => supp(false)} to={element.lnk}><li className='shadow  py-4 px-28 text-teal-300 rounded-full mb-3 hover:shadow-inshad active:bg-teal-300 active:text-white'>{element.name}</li></NavLink>
             );
           })
         }
