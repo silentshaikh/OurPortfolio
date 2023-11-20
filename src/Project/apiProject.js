@@ -30,7 +30,7 @@ export const projectApiJs = [
         head:'Note App'
     },
     {
-        lnl:'https://silentshaikh.github.io/randomNumberGenerator/',
+        lnl:'https://silentshaikh.github.io/randomNumberGenerater/',
         head:'Random Number'
     },
     {
