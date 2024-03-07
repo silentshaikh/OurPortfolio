@@ -101,8 +101,4 @@ export const projectApiTailReact = [
         lnl:'https://silentshaikh.github.io/webNike/',
         head:'Nike Web'
     },
-    {
-        lnl:'https://silentshaikh.github.io/eCommerce/',
-        head:'E-Commerce'
-    },
 ];
