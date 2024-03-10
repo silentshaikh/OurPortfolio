@@ -55,7 +55,7 @@ export const projectApiJs = [
     },
     {
         lnl:'https://silentshaikh.github.io/quoteGenerator/',
-        head:'Quote Generator'
+        head:'Quotes Generator'
     },
     {
         lnl:'https://silentshaikh.github.io/formValidation/',
